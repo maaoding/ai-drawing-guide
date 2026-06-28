@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-06-23T14:10:21.373Z",
+  "generatedAt": "2026-06-28T13:38:37.406Z",
   "source": "docs/.vitepress/dist",
   "entries": [
     "404.html",
+    "apple-touch-icon.png",
     "assets",
     "concepts",
+    "favicon.png",
     "glossary.html",
     "guide",
     "hashmap.json",

@@ -5,6 +5,9 @@ hero:
   name: AI 绘画入门知识库
   text: 从底模、Prompt、LoRA 到工作流
   tagline: 面向零基础用户的公开版 AI 绘画概念指南
+  image:
+    src: /assets/home-hero.png
+    alt: AI 绘画工作流主视觉
   actions:
     - theme: brand
       text: 开始入门
@@ -15,10 +18,25 @@ hero:
 
 features:
   - title: 先理解概念
+    icon:
+      src: /assets/icon-concepts.png
+      alt: 概念图标
+      width: 48
+      height: 48
     details: 用直观语言解释底模、VAE、文本编码器、采样器、LoRA、ControlNet 和工作流。
   - title: 再选择工具
+    icon:
+      src: /assets/icon-tools.png
+      alt: 工具图标
+      width: 48
+      height: 48
     details: 区分 Web 平台、本地 WebUI、ComfyUI、模型网站和素材网站各自适合做什么。
   - title: 最后形成流程
+    icon:
+      src: /assets/icon-workflow.png
+      alt: 工作流图标
+      width: 48
+      height: 48
     details: 从提示词、模型选择、参数调试到复用工作流，逐步建立稳定的出图方法。
 ---
 
@@ -33,7 +51,7 @@ features:
 1. 先看 [入门路线](/guide/getting-started)，知道学习顺序。
 2. 再看 [底模是什么](/concepts/base-model) 和 [组成部分](/concepts/components)。
 3. 学会 [Prompt 入门](/prompting/basics) 和 [LoRA 入门](/lora/basics)。
-4. 最后看 [常见模型生态](/models/ecosystems) 与 [常用网站](/resources/websites)。
+4. 最后看 [常见模型生态](/models/ecosystems)、[常用网站](/resources/websites) 与 [精选教程](/resources/tutorials)。
 
 ## 内容边界
 

@@ -49,6 +49,16 @@
 - 搭建静态文档站。
 - 编写个人知识库、教程和项目文档。
 
+## 精选教程入口
+
+已整理到：[精选教程](/resources/tutorials)
+
+最推荐先看：
+
+- [ComfyUI 官方中文文档](https://docs.comfy.org/zh)：优先理解 ComfyUI 的基础界面、节点和官方教程入口。
+- [ComfyUI 官方示例工作流](https://comfyanonymous.github.io/ComfyUI_examples/)：对照示例学习不同任务的节点组合。
+- [Hugging Face Model Cards](https://huggingface.co/docs/hub/en/model-cards)：下载模型前先核对许可证、用途限制和推荐用法。
+
 ## 模型机构与项目
 
 ### Stability AI

@@ -6,8 +6,12 @@ export default defineConfig({
   description: '面向零基础用户的 AI 绘画概念、模型、Prompt、LoRA 与工作流入门资料',
   cleanUrls: true,
   lastUpdated: true,
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }]
+  ],
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/assets/logo.png',
     search: {
       provider: 'local'
     },
@@ -58,6 +62,7 @@ export default defineConfig({
         text: '资料',
         items: [
           { text: '常用网站', link: '/resources/websites' },
+          { text: '精选教程', link: '/resources/tutorials' },
           { text: '术语表', link: '/glossary' }
         ]
       }
